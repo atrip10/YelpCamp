@@ -1,0 +1,23 @@
+.thumbnail img{
+	width:100%;
+}
+
+.thumbnail{
+	padding:0;
+}
+
+#title1{
+	color: blue;
+}
+
+.thumbnail .caption-full{
+	padding:9px;
+}
+
+#del{
+	display:inline;
+}
+
+#deleteform{
+	display:inline;
+}
